@@ -1,5 +1,7 @@
 # Excel Projects
-This repository contains several excel projects. `KickStarterBook.xlsx` uses pivot tables and graphs to visualize relationships between successful kickstarters and other factors. 
+The projects in this repository were assignments completed for The George Washington University Data Analysis and Visualization Bootcamp.
+
+`KickStarterBook.xlsx` uses pivot tables and graphs to visualize relationships between successful kickstarters and other factors. 
 
 `KickStarter-Analysis-Questions` describes the relationships found in `KickStarterBook.xlsx`.
 
